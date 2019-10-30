@@ -1,0 +1,5 @@
+name, show, code, tickets, price, tax, timestamp
+Sean Anthony, Phoebe Bridgers, pheb, 2, $30.00, $2.10, 2019-10-29 18:08:31.912470
+Domi Anthony, Big Theif, jbbt, 4, $80.00, $5.60, 2019-10-29 18:09:50.089703
+Angie, Sharon Van Etten, shve, 3, $30.00, $2.1, 2019-10-30 16:06:43.448800
+Angie, Big Theif, jbbt, 2, $40.00, $2.8, 2019-10-30 16:25:34.702095
